@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi! :wave: Welcome to my GitHub! 😊
+![](header.svg)
 
 <!--
 **Sol-momma/Sol-momma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +18,10 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/Sol-momma/Sol-momma/output/github-contribution-grid-snake.svg)
 
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
+### 👶I’m currently learning ...
+
+[![My Skills](https://skillicons.dev/icons?i=py,django,cpp,docker,js,ts,figma,go,html,css,gcp,nestjs,nextjs,postgres,react,sqlite,supabase,tailwind,svg,unity,vite,vue&perline=10)](https://skillicons.dev)
+
+[![](https://visitcount.itsvg.in/api?id=Sol-momma&icon=2&color=13)](https://visitcount.itsvg.in)
