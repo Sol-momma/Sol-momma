@@ -1,4 +1,7 @@
+<!-- 
 # Hi! :wave: Welcome to my GitHub! 😊
+-->
+
 ![](header.svg)
 
 <!--
