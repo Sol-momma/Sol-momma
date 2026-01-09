@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://raw.githubusercontent.com/Sol-momma/Sol-momma/output/github-contribution-grid-snake.svg)
+
