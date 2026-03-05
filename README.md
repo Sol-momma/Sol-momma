@@ -3,7 +3,7 @@ Hi, I'm So Momma.
 
 Computer Science student specializing in full-stack development and AI systems, experienced in building scalable SaaS platforms and cloud-native applications.
 
-if you want my portfolio or Career History, contact me
+If you want my portfolio or Career History, contact me
 
 ![](header.svg)
 
