@@ -1,3 +1,5 @@
+![](header.svg)
+
 # Introduction
 Hi, I'm So Momma.
 
@@ -5,6 +7,5 @@ Computer Science student specializing in full-stack development and AI systems, 
 
 If you want my portfolio or Career History, contact me
 
-![](header.svg)
 
 ![](https://raw.githubusercontent.com/Sol-momma/Sol-momma/output/github-contribution-grid-snake.svg)
