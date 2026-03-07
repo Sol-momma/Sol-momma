@@ -1,8 +1,8 @@
-# Introduction
 # Hi, I'm So Momma.👋
 
 ![](header.svg)
 
+# Introduction
 Computer Science student specializing in full-stack development and AI systems, experienced in building scalable SaaS platforms and cloud-native applications.
 
 If you want my portfolio or Career History, contact me.
