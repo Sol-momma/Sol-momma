@@ -9,3 +9,8 @@ If you want my portfolio or Career History, contact me.
 
 
 ![](https://raw.githubusercontent.com/Sol-momma/Sol-momma/output/github-contribution-grid-snake.svg)
+
+
+<iframe src="https://github.com/sponsors/Sol-momma/card" title="Sponsor Sol-momma" height="225" width="600" style="border: 0;"></iframe>
+
+<iframe src="https://github.com/sponsors/Sol-momma/button" title="Sponsor Sol-momma" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
